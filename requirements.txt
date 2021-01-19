@@ -1,12 +1,11 @@
-
+gevent==21.1.1
 Flask==1.1.2
-Flask-Cors @ file:///tmp/build/80754af9/flask-cors_1598886879133/work
 itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 matplotlib==3.3.3
 mistune==0.8.4
 pipreqs==0.4.10
-scikit-learn @ file:///C:/ci/scikit-learn_1598377018496/work
+scikit-learn==0.24.0
 seaborn==0.11.1
 Werkzeug==1.0.1
